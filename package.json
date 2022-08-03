@@ -1,0 +1,19 @@
+{
+  "name": "loving-timer",
+  "version": "1.0.0",
+  "description": "love",
+  "main": "app.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GodWord/loving-timer.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GodWord/loving-timer/issues"
+  },
+  "homepage": "https://github.com/GodWord/loving-timer#readme",
+  "dependencies": {
+    "node-static": "^0.7.11"
+  }
+}
